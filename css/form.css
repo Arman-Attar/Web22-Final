@@ -1,0 +1,21 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+ .required{
+     color: red;
+ }
+ legend{
+     font-weight: bold;
+ }
+ input[name=notes]{
+    line-height: 3em;
+ }
+ select{
+     width: 510px;;
+ }
+ .requiredlat{
+     color: red;
+ }
+ .requiredlong{
+     color: red;
+ }
